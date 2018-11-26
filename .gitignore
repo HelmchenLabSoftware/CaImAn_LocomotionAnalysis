@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.ipynb_checkpoints
+__pycache__
+*.pyc
+.DS_Store
+.idea
